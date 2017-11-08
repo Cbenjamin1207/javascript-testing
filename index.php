@@ -20,13 +20,10 @@
 					<div class="card">
 						<div class="card-body">
 							<p class="card-text">
-								Alex taco  vegas potato  taco  burrito alex, potato  magic kingdom potato  potato  greek. Taco  taco  potato  alex,
-								greek burrito book now gatlinburg book now burrito taco . Book now potato  greek burrito alex taco  potato  greek.
-								Alex magic kingdom vegas greek magic kingdom gatlinburg book now gatlinburg alex. Gatlinburg gatlinburg potato  potato
-								burrito book now burrito, magic kingdom vegas gatlinburg greek alex. Gatlinburg vegas burrito gatlinburg, potato
-								gatlinburg magic kingdom magic kingdom burrito burrito vegas. Burrito vegas book now potato  magic kingdom taco  potato
-								magic kingdom magic kingdom, gatlinburg vegas alex burrito burrito. Alex greek vegas, book now burrito magic kingdom book now
-								alex alex alex taco  taco . Greek alex alex, magic kingdom alex burrito gatlinburg greek gatlinburg greek book now.
+								Linda jersey royal annabelle bannock russet agata blue congo. Flava almond maris piper blue congo cara yukon gold.
+								Linda chelina golden wonder red norland alturas russet norkotah. Megachip vitelotte langlade pink eye, vitelotte up to
+								date estima blue congo red lasoda sieglinde. Marfona french fries apline ranger russet cabritas. Pike cabritas ranger russet
+								bintje nicola. Kennebec adirondack red almond primura german butterball yukon gold golden wonder.
 							</p>
 						</div>
 					</div>
@@ -36,11 +33,10 @@
 					<div class="card">
 						<div class="card-body">
 							<p class="card-text">
-								Gatlinburg book now greek magic kingdom book now vegas alex alex taco ,
-								magic kingdom vegas greek taco . Vegas greek greek, book now alex magic kingdom magic kingdom potato
-								greek burrito vegas greek alex. Vegas vegas burrito vegas potato  alex book now. Gatlinburg burrito
-								burrito book now book now taco  gatlinburg taco , taco  gatlinburg vegas potato  greek potato . Magic kingdom
-								alex greek burrito greek vegas greek gatlinburg.
+								Maris piper alturas avalanche pike pink fir apple, adirondack red avalanche red norland lady balfour goldrush. Record
+								alturas avalanche marfona ranger russet fianna blazer russet. Red lasoda arran victory, cabritas tots blue congo linda ranger
+								russet camota vitelotte. Arran victory bintje avalanche golden wonder french fries cielo. Vitelotte bintje red norland apline
+								agata, estima pink eye flava cara cielo lady balfour.
 							</p>
 						</div>
 					</div>
@@ -50,11 +46,40 @@
 					<div class="card">
 						<div class="card-body">
 							<p class="card-text">
-								Greek taco  gatlinburg book now vegas greek alex, burrito book now potato  alex gatlinburg. Burrito burrito
-								magic kingdom magic kingdom magic kingdom magic kingdom alex burrito. Burrito potato  potato  alex taco  vegas
-								book now potato  greek.
+								Adirondack blue potato bildtstar nicola clavela blanca, annabelle avalanche flava home guard kerr's pink. Nicola tots primura
+								sieglinde cara red lasoda bintje. Russet burbank cabritas belle de fontenay irish cobbler kipfler, bamberg record yellow finn
+								annabelle ranger russet langlade pike. Rooster megachip bamberg stobrawa irish cobbler clavela blanca, red pontiac kestrel selma
+								marquis arran victory red lasoda. Bildtstar king edward pink fir apple record red pontiac.
 							</p>
 						</div>
+					</div>
+				</div>
+
+				<div class="col">
+					<div class="card">
+						<div class="card-body">
+							<p class="card-text">
+								Linda shepody kerr's pink snowden almond kestrel, russet norkotah bamberg cielo silverton russet belle de fontenay
+								sieglinde. Red lasoda goldrush superior pink eye, nicola linda apline adirondack red marquis keuka gold. Ratte pink fir
+								apple rooster bannock russet, yellow finn tots spunta bildtstar german butterball red norland. Maris piper cara marfona
+								clavela blanca carola, carola innovator silverton russet irish cobbler cielo cabritas.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="jumbotron">
+						<p>
+							Red norland kennebec red pontiac kipfler maris piper tater. Chelina kipfler potato shepody, kerr's pink king edward sirco flava
+							french fries superior. Golden wonder almond cielo belle de fontenay adirondack red, lady balfour fianna up to date anya annabelle. Golden
+							wonder french fries lady balfour yukon gold alturas bintje maris piper, atlantic marfona camota arran victory tots. Keuka gold spud
+							pike red norland stobrawa french fries.
+						</p>
 					</div>
 				</div>
 			</div>
