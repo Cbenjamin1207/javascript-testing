@@ -60,9 +60,10 @@
 				</div>
 
 				<div class="col">
-					<div class="card">
+					<div class="card" onmouseenter="shuffle()" onmouseleave="shuffle()">
 						<div class="card-body">
-							<p class="card-text">
+							<h1>Shuffle</h1>
+							<p id="shuffle-text" class="card-text">
 								Adirondack blue potato bildtstar nicola clavela blanca, annabelle avalanche flava home guard kerr's pink. Nicola tots primura
 								sieglinde cara red lasoda bintje. Russet burbank cabritas belle de fontenay irish cobbler kipfler, bamberg record yellow finn
 								annabelle ranger russet langlade pike. Rooster megachip bamberg stobrawa irish cobbler clavela blanca, red pontiac kestrel selma
