@@ -20,7 +20,7 @@
 				<div class="col">
 					<div class="card">
 						<div class="card-body">
-							<h1>Find & Replace</h1>
+							<h1>Find & Replace with Regular Expressions</h1>
 							<p class="card-text" id="find-replace">
 								Linda jersey royal annabelle bannock russet agata blue congo. Flava almond maris piper blue congo cara yukon gold.
 								Linda chelina golden wonder red norland alturas russet norkotah. Megachip vitelotte langlade pink eye, vitelotte up to
@@ -47,12 +47,14 @@
 				<div class="col">
 					<div class="card">
 						<div class="card-body">
-							<p class="card-text">
+							<h1>Keyboard Event</h1>
+							<p id="keyboard" class="card-text">
 								Maris piper alturas avalanche pike pink fir apple, adirondack red avalanche red norland lady balfour goldrush. Record
 								alturas avalanche marfona ranger russet fianna blazer russet. Red lasoda arran victory, cabritas tots blue congo linda ranger
 								russet camota vitelotte. Arran victory bintje avalanche golden wonder french fries cielo. Vitelotte bintje red norland apline
 								agata, estima pink eye flava cara cielo lady balfour.
 							</p>
+							<input type="text" class="form-control" placeholder="Type Here!" onkeydown="keyPress(event)">
 						</div>
 					</div>
 				</div>
@@ -67,34 +69,6 @@
 								marquis arran victory red lasoda. Bildtstar king edward pink fir apple record red pontiac.
 							</p>
 						</div>
-					</div>
-				</div>
-
-				<div class="col">
-					<div class="card">
-						<div class="card-body">
-							<p class="card-text">
-								Linda shepody kerr's pink snowden almond kestrel, russet norkotah bamberg cielo silverton russet belle de fontenay
-								sieglinde. Red lasoda goldrush superior pink eye, nicola linda apline adirondack red marquis keuka gold. Ratte pink fir
-								apple rooster bannock russet, yellow finn tots spunta bildtstar german butterball red norland. Maris piper cara marfona
-								clavela blanca carola, carola innovator silverton russet irish cobbler cielo cabritas.
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="jumbotron">
-						<p>
-							Red norland kennebec red pontiac kipfler maris piper tater. Chelina kipfler potato shepody, kerr's pink king edward sirco flava
-							french fries superior. Golden wonder almond cielo belle de fontenay adirondack red, lady balfour fianna up to date anya annabelle. Golden
-							wonder french fries lady balfour yukon gold alturas bintje maris piper, atlantic marfona camota arran victory tots. Keuka gold spud
-							pike red norland stobrawa french fries.
-						</p>
 					</div>
 				</div>
 			</div>
